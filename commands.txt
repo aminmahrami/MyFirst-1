@@ -1,0 +1,4 @@
+I learned how to use git commands to make a branch and to switch to it
+git branch: to show all branches and your cuurent branch
+git branch <name>: to creat new branch
+git checkout <name>: to go to the <name> branch
