@@ -1,0 +1,3 @@
+use the "nano" command to edit a file
+nano + the name of the file
+(don't forget to save it)
