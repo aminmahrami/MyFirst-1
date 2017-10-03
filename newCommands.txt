@@ -1,0 +1,6 @@
+git branch <branch name> : to add a new branch 
+git checkout <branch name> : to switch to another branch 
+git merge <branch name> : to merge the new branch with the master one
+git status: to preview the status of this branch
+git add <file> : to add new file
+git log : to see what have changed and who change that
