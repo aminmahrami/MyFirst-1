@@ -1,0 +1,32 @@
+pwd: present working directory
+ls: list the files in the current directory
+cd: change directory
+echo: display a string (in a file if you want)
+cat: concatenate whatever comes after (a file)
+vim: text editor built in terminal
+grep: used to find specific patterns in a file
+mkdir: to make a new directory
+less: display the info on the terminal one page at a time
+head: display first ten lines of a file (or chosen number -n)
+tail: display last ten lines of a file (or chosen number -n)
+for i in {a..b};do <command1>; <command2>; done
+mv: to move a file/ or you can rename it if you moved it to a file name
+rm: remove file. -r (recursive) -f (force)
+rmdir: remove directory if it's empty
+wc: word count
+sh: shell, to execute the commands file
+pipe: to have output of one command used as input for the second one
+git add <file>: to add the changes (they will be moved to the staging area)
+git commit -m "message": to commit the changes you've made
+git init: initialize a working directory
+git push: push the changes to the remote
+git rm --cashe <file> to remove from staging area
+git log: to view commiting history
+git config -- global: used to configure your info
+git status: to see the status of your changes
+git diff: to view the difference (changes) in your file which isnt committed yet
+git branch <branch name>: makes a new branch
+git checkout <branch name>: moves the HEAD pointer to the branch
+git remote add origin <url>: add a new remote
+git remote show origin: shows the remote (source and fetching one)
+git branch -d <branch name>: deletes branch
