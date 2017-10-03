@@ -1,0 +1,3 @@
+ git branch to show all branches
+ git branch name to creat new branch
+ git checkout name to switch to name branch
