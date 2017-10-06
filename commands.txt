@@ -1,0 +1,11 @@
+git init = initialize local repository 
+git add = adds file to repository 
+git commit -m "message" = commit changes
+git push -u = push to repository
+git remote show origin = will show where 
+git branch branchName = make new branch 
+git checkout newBranchName = change to newBranchName
+git merge branchName = merge to master branch 
+git clone
+
+
