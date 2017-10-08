@@ -1,7 +1,0 @@
-git status: checks status of current changes
-git branch <name>: shows all available branches including your current branch
-git clone <name>: clones a repository from the server to your local machine
-git checkout <name>: switches to another branch
-git merge <name>: merges the new branch with the master branch
-git add <file>: adds a new file
-git log: shows what has been changed and by who
