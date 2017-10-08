@@ -1,3 +1,9 @@
+
+I learned how to use git commands to make a branch and to switch to it
+git branch: to show all branches and your current branch
+git branch <name>: to create new branch
+git checkout <name>: to go to the <name> branch
+
 GIT-COMMANDS
 ls - show the contents of the directory. ls -a will show all hidden files.
 
@@ -44,3 +50,4 @@ a = Go to insert mode
 <ESC> yy = copy current line (the line you are on)
 
 <ESC> p = paste what you last copied
+
