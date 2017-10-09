@@ -21,3 +21,10 @@ CTRL-z - hard stop what is happening on the command line
 mkdir - create a new directory
 
 touch - create an empty file
+
+/**Git Commands**/
+add file -> put staff in box
+commit -> write address on box
+commit -m "" -> commit with message for commit
+push  ->  send box to post office / send file and its changes to server
+git pull --allow-unrelated-histories  -> get file and its changes to local
