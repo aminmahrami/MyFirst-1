@@ -31,6 +31,7 @@ git checkout <branch name>: moves the HEAD pointer to the branch
 git remote add origin <url>: add a new remote
 git remote show origin: shows the remote (source and fetching one)
 git branch -d <branch name>: deletes branch
+git rm --cashed <file> : removes file from committed stuff while keeoing in on local repo.
 
 Mahmoud's changes
 I learned how to use git commands to make a branch and to switch to it
