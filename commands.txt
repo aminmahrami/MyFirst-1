@@ -86,3 +86,10 @@ a = Go to insert mode
 <ESC> p = paste what you last copied
 
 
+moesi88 changes 
+the steps to fork repo: 
+1-Fork the repository.
+2-Clone your fork.
+"git clone 'link' "
+3-Making and pushing changes.
+4-Making a Pull Request.
