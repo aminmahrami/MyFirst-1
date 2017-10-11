@@ -1,3 +1,9 @@
+Ammar
+pwd - print the Present Working Directory. What directory am I in?
+
+ls - show the contents of the directory. ls -a will show all hidden files.
+
+
 Ji's changes:
 pwd: present working directory
 ls: list the files in the current directory
@@ -44,6 +50,7 @@ ls - show the contents of the directory. ls -a will show all hidden files.
 
 pwd - print the Present Working Directory. What directory am I in?
 
+
 cd - change directory to the one specified. If no directory is specified this will take you to your home directory. Remember that . is the current directory and .. is the parent directory. So cd . changes the directory to the current directory (does nothing!).
 
 cat - print the contents of the file - this will print the the WHOLE file. If you want to stop printing after a full screen use the below command
@@ -61,6 +68,7 @@ CTRL-c - stop what is happening on the command line
 CTRL-z - hard stop what is happening on the command line
 
 mkdir - create a new directory
+
 
 touch - create an empty file
 
@@ -94,3 +102,4 @@ the steps to fork repo:
 "git clone 'link' "
 3-Making and pushing changes.
 4-Making a Pull Request.
+
