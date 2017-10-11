@@ -4,8 +4,8 @@ cd : change the directory
 touch: Create an empty file
 echo : display the string
 echo -n : Display the string without newline
-echo “something” > file : Redirect the output of echo and create file
-echo “another thing” >> file : Append the string to the file
+echo â€œsomethingâ€ > file : Redirect the output of echo and create file
+echo â€œanother thingâ€ >> file : Append the string to the file
 mkdir: make a new directory
 cd ~ : home
 cd - : previous directory
@@ -21,3 +21,4 @@ tail <file>: display the last 10 lines of file
 head -n <file> : display first n lines of file
 tail -n <file> : display last n lines of file
 man <COMMAND> : Display manual of the COMMAND
+rm Delete the file from the working directory
