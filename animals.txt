@@ -5,3 +5,11 @@ Tiger
 Sloth
 Giraffe
 Porcupine
+dolphin
+unicorn
+whale
+mouse
+hamster
+papi
+kitten 
+
